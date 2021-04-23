@@ -112,7 +112,7 @@ In the `api` folder we mocked a real API endpoint. When you load the initial sta
 
 Define the following domains in the `components` folder:
 - Album
-  - Album.js
+  - Album.tsx
   - AlbumForm.tsx
   - AlbumList.tsx
 - Main
