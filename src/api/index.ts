@@ -1,5 +1,5 @@
-import sampleAlbums from './sampleAlbums.json';
 import samplePhotos from './samplePhotos.json';
+import sampleAlbums from './sampleAlbums.json';
 
 export function getAlbums() {
   return sampleAlbums;
